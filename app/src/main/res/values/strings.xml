@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Montn_domo01</string>
+    <string name="sear_hint">在千万种海外商品搜索</string>
+    <string name="slecterAll">全选</string>
+    <string name="goodsNums">共4件商品</string>
+    <string name="priceCount">总价：17.0元</string>
+    <string name="countPrice">去结算</string>
+    <string name="shopName">良子店铺</string>
+    <string name="goods_title">【良子铺豆皮60g】单笔实付满69元</string>
+    <string name="goods_weight">100g</string>
+</resources>
